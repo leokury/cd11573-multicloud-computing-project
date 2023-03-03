@@ -183,7 +183,7 @@ resource "aws_ecs_task_definition" "udacity_app" {
       },
       {
         "name": "AZURE_DOTNET_APP",
-        "value": "udacity-tscotto-azure-dotnet-app"
+        "value": "udacity-leokury-azure-dotnet-app"
       }
     ],
     "portMappings": [
